@@ -1,0 +1,11 @@
+/* ShowCreators.css */
+.pico-card-list {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .small {
+    width: 200px !important;
+    height: 300px !important;
+  }
+  
